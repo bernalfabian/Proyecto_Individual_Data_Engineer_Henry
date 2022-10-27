@@ -19,3 +19,4 @@ Realizar una query en el video, para comprobar el funcionamiento de todo su trab
 
 En el archivo PI_1_Fabian_Bernal.ipynb se podrá ver el proceso de ETL comentado paso a paso.
 En el archivo Esquema flujo DB.jpg se puede observar el flujo de trabajo realizado.
+En la imagen BD_Proyecto_Individual_1_Fabian_Bernal.jpg se podrá ver la ejecución de la consulta "Precio promedio de la sucursal 9-1-688", cuyo resultado es 205.83
